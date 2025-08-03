@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33.866665mm"
+   height="33.866669mm"
+   viewBox="0 0 33.866665 33.866669"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="347.26181"
+       y="222.49561"
+       width="105.17072"
+       height="34.726181"
+       id="rect3" />
+    <rect
+       x="298.87088"
+       y="265.19528"
+       width="231.51968"
+       height="95.414169"
+       id="rect2" />
+    <rect
+       x="1.4031496"
+       y="172.5874"
+       width="789.97321"
+       height="260.98584"
+       id="rect1" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-89.711249,-36.289778)">
+    <rect
+       style="fill:#c8c4b7;stroke:#000000;stroke-width:0.394578;stroke-opacity:1"
+       id="rect4"
+       width="33.472088"
+       height="33.472088"
+       x="89.908546"
+       y="36.487064" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.4807265,-0.45939844)"
+       id="text1"
+       style="font-size:28px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:#000000"><tspan
+         x="368.30762"
+         y="197.36133"
+         id="tspan1">GTK</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.9958735,-18.260742)"
+       id="text2"
+       style="font-size:18px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#000000"><tspan
+         x="396.90771"
+         y="281.12109"
+         id="tspan2">Test</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.79175052,-1.3781953)"
+       id="text3"
+       style="font-size:10px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);fill:#000000"><tspan
+         x="365.99902"
+         y="231.34375"
+         id="tspan4">lucas-ssantos</tspan></text>
+  </g>
+</svg>

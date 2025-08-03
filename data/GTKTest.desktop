@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GTKTest
+Comment=Um exemplo de aplicativo GTK com JavaScript (GJS)
+Exec=GTKTest
+Icon=GTKTest
+Terminal=false
+Type=Application
+Categories=Utility;GTK;
+StartupNotify=true

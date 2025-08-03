@@ -3,16 +3,20 @@
   "runtime": "org.gnome.Platform",
   "runtime-version": "45",
   "sdk": "org.gnome.Sdk",
-  "command": "main.js",
+  "command": "GTKTest",
   "modules": [
     {
       "name": "GTKTest",
       "buildsystem": "simple",
-      "build-commands": ["install -Dm755 main.js /app/bin/main.js"],
+      "build-commands": [
+        "install -D src/main.js /app/bin/main.js",
+        "install -D data/GTKTest.desktop /app/share/applications/GTKTest.desktop",
+        "install -D data/GTKTest.svg /app/share/icons/hicolor/scalable/apps/GTKTest.svg"
+      ],
       "sources": [
         {
-          "type": "file",
-          "path": "main.js"
+          "type": "dir",
+          "path": "."
         }
       ]
     }
