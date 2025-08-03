@@ -30,3 +30,6 @@ app.connect('activate', () => {
     win.set_child(btn);
     win.present();
 });
+
+// Run the application
+app.run([]);
