@@ -2,6 +2,9 @@
 sudo apt-get install flatpak-builder
 flatpak install flathub org.gnome.Sdk 
 
+#Documentação
+https://gjs-docs.gnome.org/gtk40/
+
 #Build
 flatpak-builder --force-clean build-dir <arquivo.json>
 
