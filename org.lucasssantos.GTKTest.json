@@ -1,5 +1,5 @@
 {
-  "app-id": "lucasssantos.GTKTest.org",
+  "app-id": "org.lucasssantos.GTKTest",
   "runtime": "org.gnome.Platform",
   "runtime-version": "45",
   "sdk": "org.gnome.Sdk",
