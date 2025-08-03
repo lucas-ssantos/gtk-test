@@ -12,7 +12,7 @@ flatpak-builder --force-clean build-dir <arquivo.json>
 (?) flatpak-builder --run build-dir <arquivo.json> <app-name>
 
 #Instalar
-flatpak run com.seuusuario.MeuApp
+flatpak-builder --user --install --force-clean build-dir org.lucasssantos.GTKTest.json
 
 #Rodar
 flatpak run com.seuusuario.MeuApp
