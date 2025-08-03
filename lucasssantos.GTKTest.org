@@ -1,0 +1,20 @@
+{
+  "app-id": "lucasssantos.GTKTest.org",
+  "runtime": "org.gnome.Platform",
+  "runtime-version": "45",
+  "sdk": "org.gnome.Sdk",
+  "command": "main.js",
+  "modules": [
+    {
+      "name": "GTKTest",
+      "buildsystem": "simple",
+      "build-commands": ["install -Dm755 main.js /app/bin/main.js"],
+      "sources": [
+        {
+          "type": "file",
+          "path": "main.js"
+        }
+      ]
+    }
+  ]
+}
