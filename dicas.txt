@@ -11,3 +11,6 @@ flatpak-builder --force-clean build-dir <arquivo.json>
 #Instalar
 flatpak run com.seuusuario.MeuApp
 
+#Rodar
+flatpak run com.seuusuario.MeuApp
+
