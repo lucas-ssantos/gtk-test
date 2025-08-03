@@ -1,3 +1,4 @@
 #Ignora as pastas de build
 /.flatpak-builder
 /build-dir
+/gtktest-run
