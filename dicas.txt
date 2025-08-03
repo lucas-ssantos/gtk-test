@@ -1,6 +1,13 @@
 #Dependencia para iniciar o projeto
+sudo apt-get install flatpak-builder
 flatpak install flathub org.gnome.Sdk 
 
-#Build e executar para teste
+#Build
 flatpak-builder --force-clean build-dir <arquivo.json>
-flatpak-builder --run build-dir <arquivo.json> <app-name>
+
+#Executar em sandbox
+(?) flatpak-builder --run build-dir <arquivo.json> <app-name>
+
+#Instalar
+flatpak run com.seuusuario.MeuApp
+
