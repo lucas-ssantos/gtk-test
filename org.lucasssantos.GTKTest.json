@@ -10,8 +10,8 @@
       "buildsystem": "simple",
       "build-commands": [
         "install -D src/main.js /app/bin/main.js",
-        "install -D data/gtktest.desktop /app/share/applications/gtktest.desktop",
-        "install -D data/gtktest.svg /app/share/icons/hicolor/scalable/apps/gtktest.svg"
+        "install -D data/org.lucasssantos.GTKTest.desktop /app/share/applications/org.lucasssantos.GTKTest.desktop",
+        "install -D data/org.lucasssantos.GTKTest.svg /app/share/icons/hicolor/scalable/apps/org.lucasssantos.GTKTest.svg"
       ],
       "sources": [
         {

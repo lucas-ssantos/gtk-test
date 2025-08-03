@@ -2,7 +2,7 @@
 Name=GTKTest
 Comment=Um exemplo de aplicativo GTK com JavaScript (GJS)
 Exec=GTKTest
-Icon=GTKTest
+Icon=org.lucasssantos.GTKTest
 Terminal=false
 Type=Application
 Categories=Utility;GTK;
